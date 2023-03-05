@@ -6,7 +6,7 @@
 [![Active Developer](https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg)](https://discord.com/users/691572882148425809)
 [![Bricked#7106](https://dcbadge.vercel.app/api/shield/691572882148425809?style=flat)](https://discord.com/users/691572882148425809)
 
-_plz help me_ - my frends are forcing me to make `discord bots` and `websites` for them!
+_help me_ - my frends are forcing me to make `discord bots` and `websites` for them!
 
 ## how i waste my time
 
