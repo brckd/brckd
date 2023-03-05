@@ -6,9 +6,9 @@
 ![Active Developer](https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg)
 ![Bricked#7106](https://dcbadge.vercel.app/api/shield/691572882148425809?style=flat)](https://discord.com/users/691572882148425809)
 
-i maek discord bots and websites
+_plz help me_ - my frends are forcing me to make `discord bots` and `websites` for them!
 
-## How i waste my time
+## how i waste my time
 
 [<img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=brycked&layout=compact&theme=github_dark&hide_border=true&bg_color=0000&include_all_commits=true&count_private=true#gh-dark-mode-only">](https://github.com/brycked/github-readme-stats#gh-dark-mode-only)
 [<img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=brycked&layout=compact&theme=default&hide_border=true&bg_color=0000&include_all_commits=true&count_private=true#gh-light-mode-only">](https://github.com/brycked/github-readme-stats#gh-light-mode-only)
