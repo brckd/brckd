@@ -2,6 +2,7 @@
 
 <img alt="Profile Picture" align="right" height="90em" src="assets/constructing.gif">
 
+[![brycked.github.io](https://custom-icon-badges.demolab.com/website/https/brycked.github.io?label=pages&labelColor=black&logo=browser)](https://brycked.github.io)
 [![Discord @Bricked#7106](https://dcbadge.vercel.app/api/shield/691572882148425809?style=flat)](https://discord.com/users/691572882148425809)
 [![Steam @Bricked](https://img.shields.io/badge/Bricked-171a21?logo=steam&logoColor=white)](https://steamcommunity.com/id/brycked)
 
