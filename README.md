@@ -3,6 +3,7 @@
 <img alt="Profile Picture" align="right" height="90em" src="assets/constructing.gif">
 
 [![Discord @Bricked#7106](https://dcbadge.vercel.app/api/shield/691572882148425809?style=flat)](https://discord.com/users/691572882148425809)
+[![Steam @Bricked](https://img.shields.io/badge/Bricked-171a21?logo=steam&logoColor=white)](https://steamcommunity.com/id/brycked)
 
 _help me_ - my frends are forcing me to make `discord bots` and `websites` for them!
 
