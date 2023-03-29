@@ -20,15 +20,15 @@ _help me_ - my frends are forcing me to make `discord bots` and `websites` for t
 
 <picture height="160em" alt="GitHub Stats">
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=brycked&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&hide=issues&show_icons=true&hide_border=true&bg_color=0000&theme=github_dark"
+  srcset="https://bricked-readme-stats.vercel.app/api?username=brycked&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&hide=issues&show_icons=true&hide_border=true&bg_color=0000&theme=github_dark"
   media="(prefers-color-scheme: dark)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=brycked&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&show_icons=true&hide_border=true&bg_color=0000&hide=issues&theme=default" />
+<img src="https://bricked-readme-stats.vercel.app/api?username=brycked&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&show_icons=true&hide_border=true&bg_color=0000&hide=issues&theme=default" />
 </picture>
 <picture height="160em" alt="Most Used Languages">
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=brycked&layout=compact&hide_border=true&bg_color=0000&theme=github_dark"
+  srcset="https://bricked-readme-stats.vercel.app/api/top-langs?username=brycked&layout=compact&hide_border=true&bg_color=0000&theme=github_dark"
   media="(prefers-color-scheme: dark)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brycked&layout=compact&hide_border=true&bg_color=0000&theme=default" />
+<img src="https://bricked-readme-stats.vercel.app/api/top-langs?username=brycked&layout=compact&hide_border=true&bg_color=0000&theme=default" />
 </picture>
