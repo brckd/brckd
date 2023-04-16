@@ -1,4 +1,4 @@
-# hai im bricked :D
+<h1 id=about>hai im bricked :D</h1>
 
 <img alt="Profile Picture" align="right" height="90em" src="assets/constructing.gif">
 
@@ -8,7 +8,7 @@
 
 _help me_ - my frends are forcing me to make `discord bots` and `websites` for them!
 
-## i can haz
+<h2 id=skills>i can haz</h2>
 
 [![Fancade](https://custom-icon-badges.demolab.com/badge/-Fancade-F0B300?logoColor=white&logo=fancade-svg)](https://fancade.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -16,7 +16,7 @@ _help me_ - my frends are forcing me to make `discord bots` and `websites` for t
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
-## i waste my time like
+<h2 id=stats>i waste my time like</h2>
 
 <a href="https://github.com/brycked/github-readme-stats">
 <picture height="160em" alt="GitHub Stats">
