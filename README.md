@@ -10,11 +10,11 @@ _help me_ - my frends are forcing me to make `discord bots` and `websites` for t
 
 ## i can haz
 
+![Fancade](https://custom-icon-badges.demolab.com/badge/-Fancade-F0B300?style=for-the-badge&logoColor=white&logo=fancade-svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Fancade](https://custom-icon-badges.demolab.com/badge/-Fancade-F0B300?style=for-the-badge&logoColor=white&logo=fancade-svg)
 
 ## i waste my time like
 
