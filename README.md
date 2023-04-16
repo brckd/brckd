@@ -3,7 +3,7 @@
 <img alt="Profile Picture" align="right" height="90em" src="assets/constructing.gif">
 
 [![he/him](https://img.shields.io/endpoint?color=97b6f4&label=&url=https%3A%2F%2Fpronoundb.org%2Fshields%2F6439bf7119d024d0c0f16ed2.json)](https://pronoundb.org/)
-[![Discord @Bricked#7106](https://dcbadge.vercel.app/api/shield/691572882148425809?style=flat)](https://discord.com/users/691572882148425809)
+[![Discord @Bricked#7106](https://dcbadge.vercel.app/api/shield/691572882148425809?style=flat&theme=full-presence&compact=true)](https://discord.com/users/691572882148425809)
 [![Steam @Bricked](https://img.shields.io/badge/Bricked-171a21?logo=steam&logoColor=white)](https://steamcommunity.com/id/brycked)
 
 _help me_ - my frends are forcing me to make `discord bots` and `websites` for them!
