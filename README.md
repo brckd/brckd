@@ -41,16 +41,16 @@ These are some of the skills I have aquired when working on my projects.
 <a href="https://mui.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="React" height="60"/></a>&ensp;
 <a href="https://esbuild.github.io"><img src="https://esbuild.github.io/favicon.svg" alt="esbuild" height="60"/></a>&ensp;
 <a href="https://webpack.js.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" height="60"/></a>&ensp;
-<a href="https://firebase.google.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" height="60"/></a>&ensp;
 <a href="https://discord.js.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg" alt="Discord.JS" height="60"></a>&ensp;
 <a href="https://discordpy.readthedocs.io/"><img src="https://discordpy.readthedocs.io/en/stable/_static/discord_py_logo.ico" alt="discord.py" height="60"></a>&ensp;
 
 <details>
 <summary>
   
-### Databases
+### Backend Services
 </summary>
 <a href="https://mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="60"/></a>&ensp;
+<a href="https://firebase.google.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" height="60"/></a>&ensp;
 </details>
 
 ## 📊 Stats
