@@ -59,16 +59,16 @@ This is how I've contributed to open-source projects this year.
 <a href="https://github.com/brckd/github-readme-stats">
 <picture height="160em" alt="GitHub Stats">
 <source 
-  srcset="https://stats.bricked.dev/api?username=brckd&hide_rank=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&hide=issues&show_icons=true&hide_border=true&bg_color=0000&theme=github_dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=brckd&hide_rank=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&hide=issues&show_icons=true&hide_border=true&bg_color=0000&theme=github_dark"
   media="(prefers-color-scheme: dark)"
 />
-<img src="https://stats.bricked.dev/api?username=brckd&hide_rank=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&show_icons=true&hide_border=true&bg_color=0000&hide=issues&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=brckd&hide_rank=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&show_icons=true&hide_border=true&bg_color=0000&hide=issues&theme=default" />
 </picture>
 </a>
 <a href="https://github.com/brckd/github-readme-stats">
 <picture height="160em" alt="Most Used Languages">
 <source 
-  srcset="https://stats.bricked.dev/api/top-langs?username=brckd&layout=compact&hide_border=true&bg_color=0000&theme=github_dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=brckd&layout=compact&hide_border=true&bg_color=0000&theme=github_dark"
   media="(prefers-color-scheme: dark)"
 />
 <img src="https://stats.bricked.dev/api/top-langs?username=brckd&layout=compact&hide_border=true&bg_color=0000&theme=default" />
