@@ -1,5 +1,5 @@
 <div /><pre>
-<img src="./assets/avatar.svg" height="100" float="left">
+<img src="./assets/avatar.svg" width="100">
 Hello Coders!
 </pre>
   
@@ -15,11 +15,10 @@ Hello Coders!
 <div float="left"><pre>
 These are some things I like to work on or support.
 
+- [NixDots](https://github.com/brckd/NixDots), my dotfiles for NixOS
 - [bricked.dev](https://bricked.dev), my very own website
 - [bricked.dev/blog](https://bricked.dev/blog), my personal blog
-- [NixDots](https://github.com/brckd/NixDots), my dotfiles for NixOS
 - [maxy.top](https://maxy.top), which I'm proudly sponsoring
-- [Pixel-8](https://github.com/brckd/Pixel-8), contributor to the tiny fantasy console</pre>
 
 ## Stats
 
