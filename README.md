@@ -3,12 +3,12 @@
 Hello Coders!
 </pre>
   
-[![Pronouns: he/them](https://img.shields.io/endpoint?style=flat-square&color=465496&label=&url=https%3A%2F%2Fpronoundb.org%2Fshields%2F6439bf7119d024d0c0f16ed2.json)](https://pronoundb.org/)
-[![Website: bricked.dev](https://custom-icon-badges.demolab.com/badge/-bricked.dev-465496?style=flat-square&logo=globe)](https://bricked.dev/)
-[![Email: hello@bricked.dev](https://custom-icon-badges.demolab.com/badge/-hello@bricked.dev-465496?style=flat-square&logo=mail)](mailto:hello@bricked.dev)
-[![Codeberg: @bricked](https://img.shields.io/badge/-@bricked-465496?style=flat-square&logo=codeberg&logoColor=white)](https://codeberg.org/bricked)
-[![Matrix: @bricked:beeper.com](https://img.shields.io/badge/-@bricked:beeper.com-465496?style=flat-square&logo=matrix&logoColor=white)](https://matrix.to/#/@bricked:beeper.com)
-[![Discord: @brckd](https://img.shields.io/badge/-@brckd-465496?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/691572882148425809)
+[![Pronouns: he/them](https://img.shields.io/endpoint?style=flat-square&color=0F0F14&label=&url=https%3A%2F%2Fpronoundb.org%2Fshields%2F6439bf7119d024d0c0f16ed2.json)](https://pronoundb.org/)
+[![Website: bricked.dev](https://custom-icon-badges.demolab.com/badge/-bricked.dev-0F0F14?style=flat-square&logo=globe)](https://bricked.dev/)
+[![Email: hello@bricked.dev](https://custom-icon-badges.demolab.com/badge/-hello@bricked.dev-0F0F14?style=flat-square&logo=mail)](mailto:hello@bricked.dev)
+[![Codeberg: @bricked](https://img.shields.io/badge/-@bricked-0F0F14?style=flat-square&logo=codeberg&logoColor=white)](https://codeberg.org/bricked)
+[![Matrix: @bricked:beeper.com](https://img.shields.io/badge/-@bricked:beeper.com-0F0F14?style=flat-square&logo=matrix&logoColor=white)](https://matrix.to/#/@bricked:beeper.com)
+[![Discord: @brckd](https://img.shields.io/badge/-@brckd-0F0F14?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/691572882148425809)
 
 ## Projects
 
