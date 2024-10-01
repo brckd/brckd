@@ -7,35 +7,40 @@
 >
   <g id="avatar">
     <rect width="24" height="24" fill="#0F0F14" />
-    <g id="eyes">
-      <path
-        id="eye-right"
-        d="M14 11L16 10.5"
-        stroke="#1676E8"
-        stroke-width="2"
-      />
-      <path
-        id="eye-left"
-        d="M10 12L12 11.5"
-        stroke="#1676E8"
-        stroke-width="2"
-      />
-    </g>
-    <g id="brackets">
-      <path
-        id="bracket-right"
-        d="M16 7L18 6.5V14.5L16 15"
-        stroke="#1676E8"
-        stroke-width="2"
-        stroke-linecap="square"
-      />
-      <path
-        id="bracket-left"
-        d="M8 9L6 9.5V17.5L8 17"
-        stroke="#1676E8"
-        stroke-width="2"
-        stroke-linecap="square"
-      />
+    <g id="face">
+      <g id="eyes">
+        <path id="eye-right" d="M14 11L16 10.5" />
+        <path id="eye-left" d="M10 12L12 11.5" />
+      </g>
+      <g id="brackets">
+        <path
+          id="bracket-right"
+          d="M16 7L18 6.5V14.5L16 15"
+          stroke-linecap="square"
+        />
+        <path
+          id="bracket-left"
+          d="M8 9L6 9.5V17.5L8 17"
+          stroke-linecap="square"
+        />
+      </g>
     </g>
   </g>
+  <style>
+    #face {
+      stroke: #1676E8;
+      stroke-width: 2;
+      transform-origin: center;
+      animation: 2s spin infinite cubic-bezier(0.68, -0.6, 0.32, 1.6);
+    }
+
+    @keyframes spin {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg)
+      }
+    }
+  </style>
 </svg>
