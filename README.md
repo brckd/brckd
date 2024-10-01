@@ -1,28 +1,26 @@
 <div /><pre>
-<img src="./assets/avatar.svg" width="100">
+<img src="./assets/avatar.svg" width="98">
 Hello Coders!
-</pre>
-  
-[![Pronouns: he/them](https://img.shields.io/endpoint?style=flat-square&color=0F0F14&label=&url=https%3A%2F%2Fpronoundb.org%2Fshields%2F6439bf7119d024d0c0f16ed2.json)](https://pronoundb.org/)
-[![Website: bricked.dev](https://custom-icon-badges.demolab.com/badge/-bricked.dev-0F0F14?style=flat-square&logo=globe)](https://bricked.dev/)
-[![Email: hello@bricked.dev](https://custom-icon-badges.demolab.com/badge/-hello@bricked.dev-0F0F14?style=flat-square&logo=mail)](mailto:hello@bricked.dev)
-[![Codeberg: @bricked](https://img.shields.io/badge/-@bricked-0F0F14?style=flat-square&logo=codeberg&logoColor=white)](https://codeberg.org/bricked)
-[![Matrix: @bricked:beeper.com](https://img.shields.io/badge/-@bricked:beeper.com-0F0F14?style=flat-square&logo=matrix&logoColor=white)](https://matrix.to/#/@bricked:beeper.com)
-[![Discord: @brckd](https://img.shields.io/badge/-@brckd-0F0F14?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/691572882148425809)
+</pre><pre>
+<h2>About</h2>
 
-## Projects
+I like to configure my operating system and accessible create websites.
 
-<div float="left"><pre>
+pronouns: [he/them](https://pronoundb.org/)
+website: [bricked.dev](https://bricked.dev/)
+codeberg: [@bricked](https://codeberg.org/bricked)
+matrix: [@bricked:beeper.com](https://matrix.to/#/@bricked:beeper.com)
+discord: [@brckd](https://discord.com/users/691572882148425809)
+</pre><pre><h2>Projects</h2>
+
 These are some things I like to work on or support.
 
-- [NixDots](https://github.com/brckd/NixDots), my dotfiles for NixOS
-- [bricked.dev](https://bricked.dev), my very own website
-- [bricked.dev/blog](https://bricked.dev/blog), my personal blog
-- [maxy.top](https://maxy.top), which I'm proudly sponsoring
+[nixdots](https://github.com/brckd/NixDots): my dotfiles for NixOS
+[bricked.dev](https://bricked.dev):  my very own website
+[bricked.dev/blog](https://bricked.dev/blog): my personal blog
+[maxy.top](https://maxy.top): a friend's website, which I am proudly sponsoring
+</pre><pre><h2>Stats</h2>
 
-## Stats
-
-<div /><pre>
 This is how I've contributed to open-source projects.
 
 <picture height="160em" alt="GitHub Stats">
