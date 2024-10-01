@@ -13,6 +13,7 @@
 </div>
 
 ## Projects
+
 These are some things I like to work on or support.
 
 - [bricked.dev](https://bricked.dev), my very own website
@@ -22,6 +23,7 @@ These are some things I like to work on or support.
 - [Pixel-8](https://github.com/brckd/Pixel-8), contributor to the tiny fantasy console
 
 ## Stats
+
 This is how I've contributed to open-source projects.
 
 <picture height="160em" alt="GitHub Stats">
