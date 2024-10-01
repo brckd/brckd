@@ -6,7 +6,7 @@ Hello Coders!
 
 I like to configure my operating system and accessible create websites.
 
-pronouns: [he/them](https://pronoundb.org/)
+pronouns: [he/they](https://pronoundb.org/)
 website: [bricked.dev](https://bricked.dev/)
 codeberg: [@bricked](https://codeberg.org/bricked)
 matrix: [@bricked:beeper.com](https://matrix.to/#/@bricked:beeper.com)
