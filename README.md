@@ -4,7 +4,8 @@ Hello Coders!
 </pre><pre>
 <h2>About</h2>
 
-I like to configure my operating system and accessible create websites.
+I like to configure my operating system
+and create accessible websites.
 
 pronouns: [he/they](https://pronoundb.org/)
 website: [bricked.dev](https://bricked.dev/)
@@ -13,15 +14,18 @@ matrix: [@bricked:beeper.com](https://matrix.to/#/@bricked:beeper.com)
 discord: [@brckd](https://discord.com/users/691572882148425809)
 </pre><pre><h2>Projects</h2>
 
-These are some things I like to work on or support.
+These are some things I like to work on
+or support.
 
 [nixdots](https://github.com/brckd/NixDots): my dotfiles for NixOS
 [bricked.dev](https://bricked.dev):  my very own website
 [bricked.dev/blog](https://bricked.dev/blog): my personal blog
-[maxy.top](https://maxy.top): a friend's website, which I am proudly sponsoring
+[maxy.top](https://maxy.top): a friend's website, which I
+am proudly sponsoring
 </pre><pre><h2>Stats</h2>
 
-This is how I've contributed to open-source projects.
+This is how I've contributed to open-
+source projects.
 
 <picture height="160em" alt="GitHub Stats">
 <source 
