@@ -15,7 +15,7 @@ socials  [bricked.dev/socials](https://bricked.dev/socials)
 These are some things I like to work on
 or support.
 
-[nixdots](https://github.com/brckd/NixDots)     my dotfiles for [NixOS](https://nixos.org)
+[nixdots](https://nixdots.bricked.dev)     my dotfiles for [NixOS](https://nixos.org)
 [bricked.dev](https://bricked.dev) my personal website & blog
 [cade.party](https://cade.party)  microservices for the [Fancade](https://fancade.com)
 &nbsp;           mobile game engine
