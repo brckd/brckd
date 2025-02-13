@@ -1,32 +1,33 @@
-<div /><pre>
-<img src="./assets/avatar.svg" width="98">
-Hello coders!
-</pre><pre>
-<h2>[About]</h2>
+# I am bricked
 
-I like to configure my operating system
-and create accessible websites.
+<img alt="Bricked waving" src="./assets/wave.png" height="400" align="right"/>
 
-pronouns [he/they](https://pronoundb.org/)
-website  [bricked.dev](https://bricked.dev/)
-socials  [bricked.dev/socials](https://bricked.dev/socials)
-</pre><pre><h2>[Projects]</h2>
+Hay, I'm <strong>bricked</strong> and I love using and contributing to
+open-source software. So far I have specialized in NixOS configurations,
+accessible websites and Discord bots, but I always love to learn something new!
 
-These are some things I like to work on
-or support.
+|          |                                                    |
+| -------- | -------------------------------------------------- |
+| pronouns | [he/they](https://pronoundb.org/)                  |
+| website  | [bricked.dev](https://bricked.dev/)                |
+| socials  | [bricked.dev/socials](https://bricked.dev/socials) |
 
-[nixdots](https://nixdots.bricked.dev)     my dotfiles for [NixOS](https://nixos.org)
-[bricked.dev](https://bricked.dev) my personal website & blog
-[cade.party](https://cade.party)  microservices for the [Fancade](https://fancade.com)
-&nbsp;           mobile game engine
-[maxy.top](https://maxy.top)    a friend's website, which I
-&nbsp;           am proudly sponsoring
-</pre><pre><h2>[Stats]</h2>
+## Projects
 
-This is how I've contributed to open-
-source projects.
+These are some things I like to work on or support.
 
-<picture height="160em" alt="GitHub Stats">
+|                                        |                                                                         |
+| -------------------------------------- | ----------------------------------------------------------------------- |
+| [nixdots](https://nixdots.bricked.dev) | my dotfiles for [NixOS](https://nixos.org)                              |
+| [bricked.dev](https://bricked.dev)     | my personal website & blog                                              |
+| [cade.party](https://cade.party)       | microservices for the [Fancade](https://fancade.com) mobile game engine |
+| [maxy.top](https://maxy.top)           | a friend's website, which I am proudly sponsoring                       |
+
+## Stats
+
+This is how I've contributed to open- source projects.
+
+<picture height="160em" alt="GitHub stats">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=brckd&hide_rank=true&custom_title=GitHub%20Stats&hide=issues&show_icons=true&hide_border=true&bg_color=0000&theme=github_dark"
   media="(prefers-color-scheme: dark)"
