@@ -1,6 +1,6 @@
-# I am bricked
-
 <img alt="Bricked waving" src="./assets/wave.png" height="400" align="right"/>
+
+# I am bricked
 
 Hay, I'm <strong>bricked</strong> and I love using and contributing to
 open-source software. So far I have specialized in NixOS configurations,
